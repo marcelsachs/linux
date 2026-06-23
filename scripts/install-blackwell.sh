@@ -17,7 +17,7 @@ PACKAGES=(
   dmidecode dmenu docker fastfetch ffmpeg firefox
   gdb github-cli git git-lfs gstreamer gst-plugins-base gst-plugins-good gst-plugins-bad gst-plugin-pipewire
   i3-wm i3status inxi iwd jdk21-openjdk less linux linux-firmware linux-headers lm_sensors
-  man-db man-pages nmap nvidia-container-toolkit nvidia-open nvidia-utils nvme-cli nvtop
+  maim man-db man-pages nmap nvidia-container-toolkit nvidia-open nvidia-utils nvme-cli nvtop
   opencv openocd openssh picocom pipewire pipewire-alsa pipewire-pulse powertop python python-pip
   ranger tailscale tcpdump tmux traceroute tree ttf-ibm-plex unzip usbutils vim wget wireplumber wireshark-cli
   xclip xorg-server xorg-xev xorg-xinit xorg-xrandr xorg-xset
