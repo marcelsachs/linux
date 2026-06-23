@@ -19,7 +19,7 @@ PACKAGES=(
   i3-wm i3status inxi iwd less linux linux-firmware linux-headers lm_sensors
   man-db man-pages nmap nvidia-container-toolkit nvidia-open nvidia-utils nvme-cli nvtop
   opencv openocd openssh picocom pipewire pipewire-alsa pipewire-pulse powertop python python-pip
-  ranger tailscale tcpdump tmux traceroute tree ttf-ibm-plex usbutils vim wget wireplumber wireshark-cli
+  ranger tailscale tcpdump tmux traceroute tree ttf-ibm-plex unzip usbutils vim wget wireplumber wireshark-cli
   xclip xorg-server xorg-xev xorg-xinit xorg-xrandr xorg-xset
 )
 
