@@ -12,7 +12,7 @@ USER_PASSWORD="hunter2"
 ROOT_PASSWORD="hunter2"
 PACKAGES=(
   base base-devel bluez bluez-utils btop chromium cmake cpupower curl
-  dmenu docker fastfetch firefox gdb github-cli git git-lfs grub
+  dmenu docker fastfetch ffmpeg firefox gdb github-cli git git-lfs grub
   i3-wm i3status intel-ucode inxi iwd less linux linux-firmware lm_sensors
   maim man-db man-pages nmap openssh
   picocom pipewire pipewire-alsa pipewire-pulse powertop python python-pip
