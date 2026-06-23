@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-cd "$HOME/arch-linux/dotfiles" || exit
+cd "$HOME/linux/dotfiles" || exit
 
 for file in .[!.]*; do
     case "$file" in
