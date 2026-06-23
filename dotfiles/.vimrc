@@ -1,0 +1,9 @@
+colorscheme lunaperche
+set background=dark
+set expandtab
+set hlsearch
+set ignorecase
+set incsearch
+set shiftwidth=4
+set tabstop=4
+syntax on
