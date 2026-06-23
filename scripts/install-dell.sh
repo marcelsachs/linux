@@ -16,7 +16,7 @@ PACKAGES=(
   i3-wm i3status intel-ucode inxi iwd less linux linux-firmware lm_sensors
   man-db man-pages nmap openssh
   picocom pipewire pipewire-alsa pipewire-pulse powertop python python-pip
-  ranger tailscale tcpdump tmux traceroute tree ttf-ibm-plex usbutils vim wget wireplumber
+  ranger tailscale tcpdump tmux traceroute tree ttf-ibm-plex unzip usbutils vim wget wireplumber
   xclip xorg-server xorg-xev xorg-xinit xorg-xrandr xorg-xset
 )
 
