@@ -14,7 +14,7 @@ PACKAGES=(
   base base-devel bluez bluez-utils btop chromium cmake cpupower curl
   dmenu docker fastfetch firefox gdb github-cli git git-lfs grub
   i3-wm i3status intel-ucode inxi iwd less linux linux-firmware lm_sensors
-  man-db man-pages nmap openssh
+  maim man-db man-pages nmap openssh
   picocom pipewire pipewire-alsa pipewire-pulse powertop python python-pip
   ranger tailscale tcpdump tmux traceroute tree ttf-ibm-plex unzip usbutils vim wget wireplumber
   xclip xorg-server xorg-xev xorg-xinit xorg-xrandr xorg-xset
